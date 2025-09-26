@@ -1,4 +1,4 @@
-# Awesome Sparse Novel View Synthesis
+# Awesome Sparse View Synthesis
 A curated list of papers, datasets, and resources on sparse novel view synthesis.
 
 ## Datasets
